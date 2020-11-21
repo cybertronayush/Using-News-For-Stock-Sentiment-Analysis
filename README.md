@@ -3,3 +3,5 @@ Market sentiment is a qualitative measure of the attitude and mood of investors 
 
 # Datasets
 The datasets used in this project are raw HTML files for the Facebook (FB) and Tesla (TSLA) stocks from FINVIZ.com, a popular website dedicated to stock information and news.
+
+ https://github.com/cybertronayush/Using-News-For-Stock-Sentiment-Analysis/tree/main/datasets
